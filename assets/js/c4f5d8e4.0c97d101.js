@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmu_website=self.webpackChunkmu_website||[]).push([[2634],{30192:(e,s,t)=>{t.r(s),t.d(s,{default:()=>d});t(96540);var u=t(56347),c=t(74848);const d=()=>(0,c.jsx)(u.rd,{to:"/docs/Blog/indexs.html"})}}]);
